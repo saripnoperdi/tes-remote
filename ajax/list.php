@@ -1,9 +1,9 @@
 <?php include"proses/config.php"; ?>
 
-<p>List Data Siswa</p>
+<h1>List Data Siswa</h1>
 <table width="469" height="52" border="1">
   <tr>
-    <td width="67">Nim</td>
+    <td width="67">Nim mama saya<td>
     <td width="91">Nama</td>
     <td width="190">Alamat</td>
     <td width="130">Aksi</td>
